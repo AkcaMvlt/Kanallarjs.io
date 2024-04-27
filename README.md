@@ -9,7 +9,7 @@ Evitar que muera todo el repositorio en caso de querer eliminar alguna señal.
 <summary>Canales Chile 🇨🇱</summary>
 
 - [24 Horas](https://www.youtube.com/channel/UCTXNz3gjAypWp3EhlIATEJQ)
-- [24 Horas 2](https://www.24horas.cl/envivo/)
+- [Turi](https://www.24horas.cl/envivo/)
 - [24 Horas 3](https://www.24horas.cl/envivo/) - [x](https://www.viendotele.cl/)
 - [24 Horas 4](https://www.twitch.tv/24horas_tvn)
 - [TVN](https://www.youtube.com/channel/UCaVaCaiG6qRzDiJDuEGKOhQ)
@@ -180,7 +180,7 @@ Evitar que muera todo el repositorio en caso de querer eliminar alguna señal.
     <summary>Estados Unidos 🇺🇸</summary>
 
 	
-	- [ABC7 SWFL](https://www.youtube.com/channel/UCq9e_hCv2jvgck8WowW1NXg)
+	- [gggL](https://www.youtube.com/channel/UCq9e_hCv2jvgck8WowW1NXg)
 	- [ABC News](https://abcnews.go.com/Live) - [x](https://raw.githubusercontent.com/eviltizzy/TizTV/master/Tiz_M3U)
 	- [Agenda-Free TV](https://www.youtube.com/channel/UCshCsg1YVKli8yBai-wa78w)
     - [Agenda-Free TV 2](https://www.twitch.tv/agendafreetv)
@@ -365,8 +365,8 @@ Evitar que muera todo el repositorio en caso de querer eliminar alguna señal.
 ## Señal yt_id:
 No requiere atributo 'fuente' debido a que propio Channel ID tambien es la fuente del video directo
 ```
-"24-horas": {
-        "nombre": "24 horas",
+"ddd": {
+        "nombre": "ddd",
         "yt_id": "UCTXNz3gjAypWp3EhlIATEJQ",
         "pais": "cl"
     },
@@ -418,6 +418,6 @@ Requiere atributo 'fuente' ya que sitio de fuente no es exclusivo a solo video (
 
 # Este JSON es empleado en los repositorios:
 
-https://github.com/Alplox/teles
+https://github.com/AkcaMvlt/Arti18.io
 
-https://github.com/Alplox/la-tele
+https://github.com/AkcaMvlt/Arti18.io
